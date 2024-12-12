@@ -1,0 +1,6 @@
+1 | Monica
+2 | Phoebe
+3 | Rachel
+4 | Ross
+5 | Chandler
+6 | Joey

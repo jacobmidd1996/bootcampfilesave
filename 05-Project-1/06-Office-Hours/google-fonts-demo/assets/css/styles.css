@@ -1,0 +1,10 @@
+.edu-au-vic-wa-nt-guides {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h2, p {
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+}
